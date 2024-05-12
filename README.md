@@ -1,1 +1,0 @@
-# real-time-trading-data-pipeline
